@@ -1,2 +1,2 @@
-# ZooManagementSystem
+# OnlineStore
 OOP and Java Practice
